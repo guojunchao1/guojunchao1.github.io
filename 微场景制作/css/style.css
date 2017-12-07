@@ -1,3 +1,8 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
 html, body {
       position: relative;
       height: 100%;
@@ -79,6 +84,9 @@ html, body {
     top:340px;
     left:100px;
     background: url(../img/9.png);
+    background-size:contain;
+    width: 206px;
+    font-weight: bold;
     
 }
 .footer{
