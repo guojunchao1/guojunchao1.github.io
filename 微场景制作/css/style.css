@@ -208,6 +208,164 @@ html, body {
     }
 }
 
+.s3{
+    background: url(../img/bj.png);
+    width: 100%;height: 100%;
+}
+.s3 h2{
+    color:#0ce9bd;
+    padding-top: 95px;
+    font-size: 30px;
+}
+.s3 small{
+    color:#0ce9bd;
+    font-size: 10px;
+    letter-spacing:5px;
+    font-weight: bold;
+}
+.s3 h2::before,.s3 h2::after{
+    content: "";
+    width: 80px;
+    height: 20px;   
+    display: inline-block;
+    position: absolute;
+}
+.s3 h2::before{
+    background: url(../img/14.png);
+    margin-left: -95px;
+    margin-top: 10px;
+    background-size: contain;
+}
+.s3 h2::after{
+    background: url(../img/13.png);
+    margin-left: 15px;
+    margin-top: 8px;
+    background-size: contain;
+}
+
+.s3 p{
+    color:#00f3cb;
+    font-size: 16px;
+    border-left:3px solid #00f3cb;
+    width:70%;
+    position: absolute;
+    top:520px;
+    left: 60px;
+}
+.contain div:nth-of-type(1){
+    width: 60px;height: 60px;
+    border-radius: 360px;
+    background: radial-gradient(#001c34,#003b57,#015267,#005f6d);
+    position: absolute;
+    left: 90px;
+    top: 173px;
+}
+.contain div span:nth-of-type(1){
+    text-align: center;
+    color:#2bfbb0;
+    font-size: 16px;
+    line-height: 60px;
+}
+.contain div:nth-of-type(2){
+    width: 60px;height: 60px;
+    border-radius: 360px;
+    background: radial-gradient(#001c34,#003b57,#015267,#005f6d);
+    position: absolute;
+    left: 228px;
+    top: 173px;
+}
+.contain div span:nth-of-type(2){
+    text-align: center;
+    color:#2bfbb0;
+    font-size: 16px;
+    line-height: 60px;
+}
+.contain div:nth-of-type(3){
+    width: 60px;height: 60px;
+    border-radius: 360px;
+    background: radial-gradient(#001c34,#003b57,#015267,#005f6d);
+    position: absolute;
+    left: 298px;
+    top: 290px;
+}
+.contain div span:nth-of-type(3){
+    text-align: center;
+    color:#2bfbb0;
+    font-size: 16px;
+    line-height: 60px;
+}
+.contain div:nth-of-type(4){
+    width: 60px;height: 60px;
+    border-radius: 360px;
+    background: radial-gradient(#001c34,#003b57,#015267,#005f6d);
+    left: 228px;top: 409px;
+    position: absolute;
+}
+.contain div span:nth-of-type(4){
+    text-align: center;
+    color:#2bfbb0;
+    font-size: 16px;
+    line-height: 60px;
+}
+.contain div:nth-of-type(5){
+    width: 60px;height: 60px;
+    border-radius: 360px;
+    background: radial-gradient(#001c34,#003b57,#015267,#005f6d);
+    position: absolute;
+    left: 90px;
+    top: 409px;
+}
+.contain div span:nth-of-type(5){
+    text-align: center;
+    color:#2bfbb0;
+    font-size: 16px;
+    line-height: 60px;
+    
+}
+.contain div:nth-of-type(6){
+    width: 60px;height: 60px;
+    border-radius: 360px;
+    background: radial-gradient(#001c34,#003b57,#015267,#005f6d);
+    position: absolute;
+    left: 20px;
+    top: 290px;
+}
+.contain div span:nth-of-type(6){
+    text-align: center;
+    color:#2bfbb0;
+    font-size: 16px;
+    line-height: 60px;
+}
+.contain div:nth-of-type(7){
+    width: 133px;height: 133px;
+    border-radius: 360px;
+    background: radial-gradient(#001c34,#003b57,#015267,#005f6d);
+    position: absolute;
+    top:260px;left:120px;
+    
+}
+.contain div span:nth-of-type(7){
+    text-align: center;
+    color:#2bfbb0;
+    font-size: 28px;
+    line-height: 133px;
+}
+
+.img img:nth-of-type(1){
+    width: 100%;height: 70px;
+    position: absolute;
+    top:640px;
+    left:20px;
+    animation: shake infinite;
+}
+.img img:nth-of-type(2){
+    width: 100%;height: 70px;
+    position: absolute;
+    top:640px;
+    left:-40px;
+    animation: shake infinite;
+}
+
 
 
 
