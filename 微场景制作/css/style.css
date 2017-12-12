@@ -649,6 +649,55 @@ margin-top: 40px;
      background: -webkit-linear-gradient(left,#00e7f7,#01fc9f);
     line-height: 20px;
 }
+.s6{
+    background: url(../img/bj.png);
+    width: 100%;height: 100%;
+}
+.s6 h2{
+    color:#0ce9bd;
+    padding-top: 95px;
+    font-size: 30px;
+}
+.s6 small{
+    color:#0ce9bd;
+    font-size: 10px;
+    letter-spacing:5px;
+    font-weight: bold;
+}
+.s6 h2::before,.s6 h2::after{
+    content: "";
+    width: 80px;
+    height: 20px;   
+    display: inline-block;
+    position: absolute;
+}
+.s6 h2::before{
+    background: url(../img/14.png);
+    margin-left: -95px;
+    margin-top: 10px;
+    background-size: contain;
+}
+.s6 h2::after{
+    background: url(../img/13.png);
+    margin-left: 15px;
+    margin-top: 8px;
+    background-size: contain;
+}
+
+.img img:nth-of-type(1){
+    width: 100%;height: 70px;
+    position: absolute;
+    top:640px;
+    left:20px;
+    animation: shake infinite;
+}
+.img img:nth-of-type(2){
+    width: 100%;height: 70px;
+    position: absolute;
+    top:640px;
+    left:-40px;
+    animation: shake infinite;
+}
 
 .s7{
     background: url(../img/bj.png);
