@@ -619,8 +619,8 @@ html, body {
 .title div{
     float: left;
     background: url(../img/12.png);
-    width: 138px;
-    height: 175px;
+    width: 34%;
+    height: 173px;
     background-size: contain;
   margin-left: 40px;
 margin-top: 40px;
@@ -644,7 +644,7 @@ margin-top: 40px;
     font-size: 16px;
     margin-left: 22px;
     margin-top: 5px;
-    width: 95px;height: 20px;
+    width: 65%;height: 20px;
     border-radius: 30px;
      background: -webkit-linear-gradient(left,#00e7f7,#01fc9f);
     line-height: 20px;
