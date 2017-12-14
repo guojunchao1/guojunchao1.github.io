@@ -1,0 +1,111 @@
+html, body {
+      position: relative;
+      height: 100%;
+    }
+    body {
+      background: #eee;
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      color:#000;
+      margin: 0;
+      padding: 0;
+    }
+    .swiper-container {
+      width: 100%;
+      height: 100%;
+    }
+    .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      background: #fff;
+    }
+
+.s1,s2,s3,s4,s5,s6{
+    background: url(../img/142951A20-1.gif);
+    height: 100%;
+    background-size:contain;
+}
+.s1 .header{
+    position: absolute;
+    width: 100%;top: 10%;
+}
+.s1 .header p{
+    color:#33CCCC;
+    font-weight: bold;
+    font-size: 30px;
+    border-bottom:1px solid #fff;
+    border-top:1px solid #fff;
+    text-align: center;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    animation: shan 4.5s;
+    animation-iteration-count: infinite;
+}
+@keyframes shan{
+			0%{
+				color:red;
+			}
+			20%{
+				color:orange;
+			}
+			40%{
+				color:purple;
+			}
+			80%{
+				color:blue;
+			}
+			100%{
+				color:green;
+			}
+		}
+.s1 .main img:nth-of-type(1){
+    width: 29%;height: 22%;
+    position: absolute;
+    top:36%;
+    left:24%
+}
+.s1 .main img:nth-of-type(2){
+    width: 16%;
+    position: absolute;
+    top:36%;
+    left:58%
+}
+.s1 .main img:nth-of-type(3){
+    width: 18%;
+    position: absolute;
+    top:49%;
+    left:57%
+}
+.s1 .footer span:nth-of-type(1){
+    color:#fff;
+    float: left;
+    font-size: 20px;
+    margin-left: 20%;
+    margin-top: 138%;
+    letter-spacing:2px
+}
+.s1 .footer span:nth-of-type(2){
+    color:#fff;
+    float: left;
+    font-size: 20px;
+    margin-left: 33%;
+     letter-spacing:2px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
