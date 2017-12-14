@@ -22,7 +22,7 @@ html, body {
 
 .swiper-button-next, .swiper-container-rtl  {
    transform: rotate(-90deg);
-    right: 50%;
+    right: 47%;
     left: auto;
     position: absolute;
     top:90%;
@@ -56,6 +56,7 @@ html, body {
     border-bottom:1px solid #fff;
     border-top:1px solid #fff;
     text-align: center;
+    font-family: 宋体;
     width: 100%;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -112,10 +113,38 @@ html, body {
     color:#fff;
     font-size: 20px;
     position: absolute;
-    left:30%;top: 77%;
+    left:31%;top: 77%;
      letter-spacing:2px;
 }
-
+.s2 .header h3{
+    position: absolute;
+    color:aqua;
+    left:33%;
+    top:5%;
+    font-size:30px;
+    font-family: 宋体;
+    letter-spacing:7px
+}
+.s2 .header span{
+    color:aqua;
+    font-size: 11px;
+    position: absolute;
+    top:15%;left:35%;
+    letter-spacing:2px
+}
+.s2 .header img:nth-of-type(1){
+    position: absolute;
+    top: 11%;
+    left: 19%;
+}
+.s2 .header img:nth-of-type(2){
+    position: absolute;
+    top: 11%;
+    right:16%
+}
+.s2 .main img{
+    width: 50%;
+}
 
 
 
