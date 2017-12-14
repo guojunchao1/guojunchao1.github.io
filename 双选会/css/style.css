@@ -20,6 +20,26 @@ html, body {
       background: #fff;
     }
 
+.swiper-button-next, .swiper-container-rtl  {
+   transform: rotate(-90deg);
+    right: 50%;
+    left: auto;
+    position: absolute;
+    top:90%;
+    width: 25px;height: 25px;
+    animation: jt 2s infinite;
+}
+@keyframes jt{
+    0%{
+        top:88%;
+        opacity: 1;
+    }
+    100%{
+        top: 85%;
+        opacity: 0;
+    }
+}
+
 .s1,.s2,.s3,.s4,.s5,.s6{
     background: url(../img/142951A20-1.gif);
     height: 100%;
@@ -82,17 +102,17 @@ html, body {
 }
 .s1 .footer span:nth-of-type(1){
     color:#fff;
-    float: left;
+ 
     font-size: 20px;
-    margin-left: 20%;
-    margin-top: 130%;
+   position: absolute;
+    top: 73%;left: 60px;
     letter-spacing:2px
 }
 .s1 .footer span:nth-of-type(2){
     color:#fff;
-    float: left;
     font-size: 20px;
-    margin-left: 33%;
+    position: absolute;
+    left:30%;top: 77%;
      letter-spacing:2px;
 }
 

@@ -4,6 +4,9 @@ var swiper = new Swiper('.swiper-container', {
         el: '.swiper-pagination',
         clickable: true,
       },
+    navigation: {
+        nextEl: '.swiper-button-next',
+      },
     on:{
       init: function(){
         swiperAnimateCache(this); //隐藏动画元素 
