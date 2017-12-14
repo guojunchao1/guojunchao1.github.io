@@ -20,7 +20,7 @@ html, body {
       background: #fff;
     }
 
-.s1,s2,s3,s4,s5,s6{
+.s1,.s2,.s3,.s4,.s5,.s6{
     background: url(../img/142951A20-1.gif);
     height: 100%;
     background-size:contain;
@@ -85,7 +85,7 @@ html, body {
     float: left;
     font-size: 20px;
     margin-left: 20%;
-    margin-top: 138%;
+    margin-top: 130%;
     letter-spacing:2px
 }
 .s1 .footer span:nth-of-type(2){
@@ -93,7 +93,7 @@ html, body {
     float: left;
     font-size: 20px;
     margin-left: 33%;
-     letter-spacing:2px
+     letter-spacing:2px;
 }
 
 
