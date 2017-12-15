@@ -127,6 +127,17 @@ html, body {
     left:31%;top: 77%;
      letter-spacing:2px;
 }
+.s2 .title img:nth-of-type(1){
+    width: 90%;
+    position: absolute;
+    top: 2%;
+    right:60%;animation: rotateOut infinite;
+}
+.s2 .title img:nth-of-type(2){
+    width: 100%;
+    position: absolute;
+    top: 45%;right:1%;
+}
 .s2 .header h3{
     position: absolute;
     color:aqua;
@@ -167,7 +178,7 @@ html, body {
     position: absolute;
     top: 23%;
     left: 15%;
-    border:5px solid #4f02ff;
+    border:3px solid #4f02ff;
     border-radius: 10px;
     transform: rotate(-8deg);
     animation: zhuano 2.5s;
@@ -179,7 +190,7 @@ html, body {
     position: absolute;
     top: 26%;
     left: 36%;
-    border:5px solid #4f02ff;
+    border:3px solid #4f02ff;
     border-radius: 10px;
     transform: rotate(10deg);
     animation: zhuan 2.5s;
@@ -217,6 +228,12 @@ html, body {
     top: 53%;
     left: 11%;
 }
+
+.s3 .title img{
+    width: 100%;
+    position: absolute;
+    top: 45%;right:1%;
+}
 .s3 .header h3{
     position: absolute;
     color:aqua;
@@ -245,9 +262,175 @@ html, body {
 }
 .s3 .main img{
     position: absolute;
-    top:25%;left: 50%;
+    top:25%;left: 45%;
 }
-
+.s3 .main .text p{
+    color:#fff;
+    font-size: 15px;
+}
+.s3 .main .text p:nth-of-type(1){
+    position: absolute;
+    top:28%;
+    left:24%;
+}
+.s3 .main .text p:nth-of-type(2){
+    position: absolute;
+    top:37%;
+    left:24%;
+}
+.s3 .main .text p:nth-of-type(3){
+    position: absolute;
+    top:44%;
+    left:30%;
+}
+.s3 .main .text p:nth-of-type(4){
+    position: absolute;
+    top:51%;
+    left:22%;
+}
+.s3 .main .text p:nth-of-type(5){
+    position: absolute;
+    top:58%;
+    left:30%;
+}
+.s4 .title img:nth-of-type(1){
+    width: 90%;
+    position: absolute;
+    top: 5%;
+    right:40%;animation: rotateOut infinite;
+}
+.s4 .title img:nth-of-type(2){
+    width: 90%;
+    position: absolute;
+    top: 15%;
+    left:40%;animation: rotateOut infinite;
+}
+.s4 .title img:nth-of-type(3){
+    width: 100%;
+    position: absolute;
+    top: 45%;right:1%;
+}
+.s4 .header h3{
+    position: absolute;
+    color:aqua;
+    left:33%;
+    top:5%;
+    font-size:30px;
+    font-family: 宋体;
+    letter-spacing:7px
+}
+.s4 .header span{
+    color:aqua;
+    font-size: 11px;
+    position: absolute;
+    top:15%;left:35%;
+    letter-spacing:2px
+}
+.s4 .header img:nth-of-type(1){
+    position: absolute;
+    top: 10%;
+    left: 19%;
+}
+.s4 .header img:nth-of-type(2){
+    position: absolute;
+    top: 10%;
+    right:16%
+}
+.s4 .main p{
+    color:aliceblue;
+    font-size: 16px;
+    text-align: left;
+}
+.s4 .main p:nth-of-type(1){
+    position: absolute;
+    top: 17%;
+    left: 10%;
+}
+.s4 .main p:nth-of-type(2){
+    position: absolute;
+    top: 21%;
+    left: 18%;
+}
+.s4 .main p:nth-of-type(3){
+    position: absolute;
+    top: 24%;
+    left: 18%;
+}
+.s4 .main p:nth-of-type(4){
+    position: absolute;
+    top: 27%;
+    left: 18%;
+}
+.s4 .main p:nth-of-type(5){
+    position: absolute;
+    top: 30%;
+    left: 18%;
+}
+.s4 .main p:nth-of-type(6){
+    position: absolute;
+    top: 33%;
+    left: 18%;
+}
+.s4 .main p:nth-of-type(7){
+    position: absolute;
+    top: 36%;
+    left: 18%;
+}
+.s4 .main p:nth-of-type(8){
+    position: absolute;
+    top: 39%;
+    left: 18%;
+}
+.s4 .main p:nth-of-type(9){
+    position: absolute;
+    top: 43%;
+    left: 18%;
+}
+.s4 .main p:nth-of-type(10){
+    position: absolute;
+    top: 46%;
+    left: 18%;
+}
+.s4 .main p:nth-of-type(11){
+    position: absolute;
+    top: 49%;
+    left: 18%;
+}
+.s4 .main p:nth-of-type(12){
+    position: absolute;
+    top: 52%;
+    left: 18%;
+}
+.s4 .main p:nth-of-type(13){
+    position: absolute;
+    top: 55%;
+    left: 18%;
+}
+.s4 .main p:nth-of-type(14){
+    position: absolute;
+    top: 59%;
+    left: 18%;
+}
+.s4 .main p:nth-of-type(15){
+    position: absolute;
+    top: 62%;
+    left: 18%;
+}
+.s4 .main p:nth-of-type(16){
+    position: absolute;
+    top: 65%;
+    left: 18%;
+}
+.s4 .main p:nth-of-type(17){
+    position: absolute;
+    top: 68%;
+    left: 18%;
+}
+.s4 .main p:nth-of-type(18){
+    position: absolute;
+    top: 71%;
+    left: 18%;
+}
 
 
 
