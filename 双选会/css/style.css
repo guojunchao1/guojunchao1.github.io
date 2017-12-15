@@ -152,7 +152,7 @@ html, body {
     color:aqua;
     font-size: 11px;
     position: absolute;
-    top:15%;left:35%;
+    top:16%;left:35%;
     letter-spacing:2px
 }
 .s2 .header img:nth-of-type(1){
@@ -241,7 +241,7 @@ html, body {
     color:aqua;
     font-size: 11px;
     position: absolute;
-    top:15%;left:35%;
+    top:16%;left:35%;
     letter-spacing:2px
 }
 .s3 .header img:nth-of-type(1){
@@ -256,7 +256,7 @@ html, body {
 }
 .s3 .main img{
     position: absolute;
-    top:25%;left: 45%;
+    top:25%;left: 47%;
 }
 .s3 .main .text p{
     color:#fff;
@@ -317,7 +317,7 @@ html, body {
     color:aqua;
     font-size: 11px;
     position: absolute;
-    top:15%;left:35%;
+    top:16%;left:34%;
     letter-spacing:2px
 }
 .s4 .header img:nth-of-type(1){
