@@ -43,14 +43,14 @@ header .bj p{
 			}
 		}
 section .col-md-4{
-    margin-top: 50px;
+    margin-top: 100px;
     text-align: center;
 }
 section .col-md-4 a{
     font-size: 20px;
     color: #fff;
     text-align: center;
-    background: #ee52b5;
+    background: #1469b3;
     padding:6px 12px 6px 12px;
     border-radius: 5px;
 }
@@ -62,6 +62,8 @@ section .col-md-4 img{
     width: 80%;
     height: 80%;
     margin-bottom: 20px;
+    border:5px solid #1469b3;
+    border-radius: 15px;
 }
 section .col-md-4::after{
     display: table;
