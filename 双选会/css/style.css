@@ -401,31 +401,7 @@ html, body {
     top: 60%;
     left: 18%;
 }
-.s4 .main p:nth-of-type(14){
-    position: absolute;
-    top: 59%;
-    left: 18%;
-}
-.s4 .main p:nth-of-type(15){
-    position: absolute;
-    top: 62%;
-    left: 18%;
-}
-.s4 .main p:nth-of-type(16){
-    position: absolute;
-    top: 65%;
-    left: 18%;
-}
-.s4 .main p:nth-of-type(17){
-    position: absolute;
-    top: 68%;
-    left: 18%;
-}
-.s4 .main p:nth-of-type(18){
-    position: absolute;
-    top: 71%;
-    left: 18%;
-}
+
 .s5 .title img{
     position: absolute;
     width: 100%;
