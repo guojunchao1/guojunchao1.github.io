@@ -1,0 +1,53 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background: url(../img/08.gif);
+    
+    background-size: cover;
+}
+header{
+    margin:0 auto;
+    background: url(../img/00.gif);
+    width: 100%;
+    background-size: cover;
+}
+header .bj p{
+    margin: auto;
+    text-align: center;
+    font-size: 80px;
+    line-height: 250px;
+    letter-spacing: 15px;
+    animation: shan 3s;
+    animation-iteration-count: infinite;
+    font-family: 楷体;
+    font-weight: bold;
+}
+@keyframes shan{
+			0%{
+				color:red;
+			}
+			20%{
+				color:orange;
+			}
+			40%{
+				color:purple;
+			}
+			80%{
+				color:blue;
+			}
+			100%{
+				color:green;
+			}
+		}
+
+section .col-md-4 span{
+    font-size: 30px;
+    color: #fff;
+}
+
+
+
+
