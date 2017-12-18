@@ -331,6 +331,7 @@ html, body {
     top: 10%;
     right:16%
 }
+
 .s4 .main p{
     color:aliceblue;
     font-size: 16px;
@@ -338,67 +339,67 @@ html, body {
 }
 .s4 .main p:nth-of-type(1){
     position: absolute;
-    top: 17%;
+    top: 20%;
     left: 10%;
 }
 .s4 .main p:nth-of-type(2){
     position: absolute;
-    top: 21%;
+    top: 24%;
     left: 18%;
 }
 .s4 .main p:nth-of-type(3){
     position: absolute;
-    top: 24%;
+    top: 27%;
     left: 18%;
 }
 .s4 .main p:nth-of-type(4){
     position: absolute;
-    top: 27%;
+    top: 30%;
     left: 18%;
 }
 .s4 .main p:nth-of-type(5){
     position: absolute;
-    top: 30%;
+    top: 33%;
     left: 18%;
 }
 .s4 .main p:nth-of-type(6){
     position: absolute;
-    top: 33%;
+    top: 36%;
     left: 18%;
 }
 .s4 .main p:nth-of-type(7){
     position: absolute;
-    top: 36%;
+    top: 39%;
     left: 18%;
 }
 .s4 .main p:nth-of-type(8){
     position: absolute;
-    top: 39%;
+    top: 42%;
     left: 18%;
 }
 .s4 .main p:nth-of-type(9){
     position: absolute;
-    top: 48%;
+    top: 53%;
     left: 18%;
 }
 .s4 .main p:nth-of-type(10){
     position: absolute;
-    top: 51%;
+    top: 56%;
     left: 18%;
 }
 .s4 .main p:nth-of-type(11){
     position: absolute;
-    top: 54%;
+    top: 59%;
     left: 18%;
 }
 .s4 .main p:nth-of-type(12){
     position: absolute;
-    top: 57%;
+    top: 62%;
     left: 18%;
 }
 .s4 .main p:nth-of-type(13){
     position: absolute;
-    top: 60%;
+    top: 65%;
     left: 18%;
 }
 
